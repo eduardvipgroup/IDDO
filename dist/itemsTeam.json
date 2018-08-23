@@ -1,0 +1,44 @@
+[
+  {
+    "img": "img/team/michael_joe.jpg",
+    "href": ["https://about.twitter.com/ru.html", "https://facebook.com", "https://instagram.com"],
+    "name": "Michael Joe",
+    "post": "Art director",
+    "description": "The art director’s primary responsibility is the overall look and feel for the web site, establishing the site typography, visual interface design, color palette standards, page layout details, and the particulars of how the graphics, photography, illustration."
+  },
+  {
+    "img": "img/team/antony.jpg",
+    "href": "[https://about.twitter.com/ru.html, https://facebook.com, https://instagram.com]",
+    "name": "Graham Davidson",
+    "post": "Web technology lead",
+    "description": " The web technology lead must have a broad grasp of web publishing environments, development languages and web development frameworks, web database options, and network technology."
+  },
+  {
+    "img": "img/team/graham.jpg",
+    "href": "[https://about.twitter.com/ru.html, https://facebook.com, https://instagram.com]",
+    "name": "Matthew Campbell",
+    "post": "Site production lead",
+    "description": "Early in the design stage the site production lead is responsible for converting initial web site page mockups, designs, and wireframes into html pages."
+  },
+  {
+    "img": "img/team/marcus.jpg",
+    "href": "[https://about.twitter.com/ru.html, https://facebook.com, https://instagram.com]",
+    "name": "Andy Watkins",
+    "post": "Site editor",
+    "description": "The site editor has overall responsibility for the written content and editorial quality of the finished site. He or she creates the editorial tone for the web site ... and deliver finished text to the production team."
+  },
+  {
+    "img": "img/team/matthew.jpg",
+    "href": "[https://about.twitter.com/ru.html, https://facebook.com, https://instagram.com]",
+    "name": "Marcus Tisater",
+    "post": "Usability lead",
+    "description": "The usability lead’s role is to shape the overall user experience. The usability lead works closely with the information architect—in fact, the same individual often fills both information architect and usability roles."
+  },
+  {
+    "img": "img/team/andy.jpg",
+    "href": "[https://about.twitter.com/ru.html, https://facebook.com, https://instagram.com]",
+    "name": "Antony Smit",
+    "post": "Web project manager",
+    "description": "The web project manager coordinates and communicates the day-to-day tactical implementation of the web site project, acting within the constraints of the project charters and goals, project budget, development schedule, and quality objectives laid out in the planning stages."
+  }
+]
